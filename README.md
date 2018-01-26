@@ -2,8 +2,8 @@
 
 Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp)
-develop|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/correct_cpp)
+master|[![Build Status](https://travis-ci.org/pbrinker/correct_cpp.svg?branch=master)](https://travis-ci.org/pbrinker/correct_cpp)
+develop|[![Build Status](https://travis-ci.org/pbrinker/correct_cpp.svg?branch=develop)](https://travis-ci.org/pbrinker/correct_cpp)
 
 Correct C++ is a free, libre and open-source course that corrects (hence the name) exercises for both the right results and good practices.
 
